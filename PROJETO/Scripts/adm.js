@@ -20,6 +20,11 @@ $(document).ready(() => {
         const sair = confirm("Quer realmente encerrar a sessão?");
         if(sair === true){
             location.href = "../index.html";
-        }
-        
+        }   
+    }
+    function cadastrarPage(){
+        location.href = "../Administracao/adm.html";
+    }
+    function gerenciar(){
+        location.href = "../Administracao/adm_gerencia.html";
     }
