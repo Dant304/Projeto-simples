@@ -28,5 +28,13 @@
     background-color: transparent;
     min-width: 10px;
   }
-
-  
+  h3 {
+    display: inline;
+    float: left;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-top: 5px;
+  }
+  select{
+    margin-top: 10px;
+  }

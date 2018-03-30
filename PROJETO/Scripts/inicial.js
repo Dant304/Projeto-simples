@@ -11,3 +11,12 @@ function sair(){
 function config(){
     location.href = "../Principal/Configuracao/configuracao.html";
 }
+function videoSourcePage(){
+    location.href = "../Principal/videoSource.html";
+}
+function artigosSource(){
+    location.href = "../Principal/artigoSource.html";
+}
+function profissionalSource(){
+    location.href = "../Principal/profissionalSource.html";
+}
