@@ -7,6 +7,9 @@
 .opcoes {
     background-color: transparent;
 }
+button{
+    margin-bottom: 15px;
+}
 button[type="reset"]{
     background-color: tomato;
 }
@@ -16,4 +19,11 @@ button[type="reset"]:hover{
 input{
     margin-left: 6px;
     
+}
+#diagnostico{
+    border: solid 3px blue;
+    height: 200px;
+    width: 300px;
+    margin: 3px;
+    font-size: 1.1em;
 }
